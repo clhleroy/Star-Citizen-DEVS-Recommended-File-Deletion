@@ -16,4 +16,4 @@ This will make sure the files point to the correct location of your game instala
 
 I will be making this so that DOESN'T need to happen but I have to go back to my DOS books and rememimber how to make it happen. Until then you will have to edit it yourself OR until Star Citizen Devs acualy get around and acually IMPLIMENT this small tool into there coding themselves.
 
-UNTIL Star Citizen can impliment this themselves, ENJOY a way to handle it yourself FREELY without MUCH effort so you can delete what is nesssissary and go.
+UNTIL Star Citizen can impliment this themselves, ENJOY a way to handle it yourself FREELY without MUCH effort so you can delete what is nesssissary and go automaticly for the most part.
