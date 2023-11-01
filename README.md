@@ -17,3 +17,4 @@ This will make sure the files point to the correct location of your game install
 I will be making this so that DOESN'T need to happen but I have to go back to my DOS books and remember how to make it happen. Until then, you will have to edit it yourself OR until Star Citizen Devs actually get around and actually Implement this small tool into there coding themselves.
 
 UNTIL Star Citizen can implement this themselves, ENJOY a way to handle it yourself FREELY without MUCH effort so you can delete what is necessary and go automatically for the most part.
+
