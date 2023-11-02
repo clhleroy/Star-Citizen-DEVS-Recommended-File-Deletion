@@ -18,6 +18,8 @@ I will be making this so that DOESN'T need to happen but I have to go back to my
 
 UNTIL Star Citizen can implement this themselves, ENJOY a way to handle it yourself FREELY without MUCH effort so you can delete what is necessary and go automatically for the most part.
 
+----------------------------------------------------
+
 File locations to change if they are NOT in the same location listed here and is INCLUDED at the TOP of the batch file as well.
 
 ::README for the User editing this file
