@@ -10,10 +10,23 @@ It deletes ALL shaders and ALL Necessary files and folders out of the USER folde
 
 DRAW BACK,
 
-Because people have diff install locations, AT THIS TIME you have to edit the file and replace the locations on your computer below the "::Change the location for your game between the quotes below." area.
+Because people have diff install locations, Look at the BOTTOM of this section for a list of items to seach for to replace with your OWN file locations.
 
 This will make sure the files point to the correct location of your game installation.
 
 I will be making this so that DOESN'T need to happen but I have to go back to my DOS books and remember how to make it happen. Until then, you will have to edit it yourself OR until Star Citizen Devs actually get around and actually Implement this small tool into there coding themselves.
 
 UNTIL Star Citizen can implement this themselves, ENJOY a way to handle it yourself FREELY without MUCH effort so you can delete what is necessary and go automatically for the most part.
+
+File locations to change if they are NOT in the same location listed here and is INCLUDED at the TOP of the batch file as well.
+
+::README for the User editing this file
+::
+::Please search for the following and replace the folder locations with your own file locations
+::DO NOT touch anything else in this file if you know nothing about DOS commands.
+::
+:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\frontend
+:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\DebugGUI
+:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\Controls
+:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\AutoPerfCaptures
+:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER
