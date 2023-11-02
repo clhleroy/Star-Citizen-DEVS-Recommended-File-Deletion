@@ -25,6 +25,7 @@ File locations to change if they are NOT in the same location listed here and is
 README for the User editing this file
 
 Please search for the following and replace the folder location after the = with your own file location
+
 DO NOT touch anything else in this file if you know nothing about DOS commands.
 
 Set StarCitizenPath=C:\Program Files\Roberts Space Industries
