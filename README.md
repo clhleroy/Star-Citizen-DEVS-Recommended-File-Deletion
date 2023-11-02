@@ -22,13 +22,13 @@ UNTIL Star Citizen can implement this themselves, ENJOY a way to handle it yours
 
 File locations to change if they are NOT in the same location listed here and is INCLUDED at the TOP of the batch file as well.
 
-::README for the User editing this file
-::
-::Please search for the following and replace the folder locations with your own file locations
-::DO NOT touch anything else in this file if you know nothing about DOS commands.
-::
-:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\frontend
-:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\DebugGUI
-:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\Controls
-:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\AutoPerfCaptures
-:: C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER
+README for the User editing this file
+
+Please search for the following and replace the folder locations with your own file locations
+DO NOT touch anything else in this file if you know nothing about DOS commands.
+
+C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\frontend
+C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\DebugGUI
+C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\Controls
+C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER\Client\0\AutoPerfCaptures
+C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER
